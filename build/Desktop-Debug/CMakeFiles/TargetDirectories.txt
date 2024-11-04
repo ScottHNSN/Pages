@@ -1,0 +1,9 @@
+/home/scott/QMLCOMBINER/build/Desktop-Debug/CMakeFiles/QMLCOMBINER.dir
+/home/scott/QMLCOMBINER/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/scott/QMLCOMBINER/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/scott/QMLCOMBINER/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/scott/QMLCOMBINER/build/Desktop-Debug/CMakeFiles/install.dir
+/home/scott/QMLCOMBINER/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/scott/QMLCOMBINER/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/scott/QMLCOMBINER/build/Desktop-Debug/CMakeFiles/QMLCOMBINER_autogen_timestamp_deps.dir
+/home/scott/QMLCOMBINER/build/Desktop-Debug/CMakeFiles/QMLCOMBINER_autogen.dir
